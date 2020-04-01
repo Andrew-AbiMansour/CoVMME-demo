@@ -1,1 +1,1 @@
-Simulation of Nudaurelia capensis omega virus protomer in implicit solvent
+NPT molecular dynamics simulation of 3 nudaurelia capensis omega virus protomers in implicit solvent. 
