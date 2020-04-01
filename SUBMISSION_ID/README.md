@@ -5,4 +5,4 @@ Types of Data Submitted:
 - [Simulation Input Files](Capsid_Protomer/Simulation_Input_Files)
 - [Simulation Output Files](Capsid_Protomer/Simulation_Output_Files)
 - [Movies](Capsid_Protomer/Movies)
-- [References](Capsid_Protomer/References)
+- [References](Capsid_Protomer/References.md)
