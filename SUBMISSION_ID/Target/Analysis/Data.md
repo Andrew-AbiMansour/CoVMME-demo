@@ -1,0 +1,2 @@
+- Pointers to trajectories
+- Pointers/refs to external data

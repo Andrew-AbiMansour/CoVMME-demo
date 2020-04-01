@@ -1,0 +1,1 @@
+Simulation of Nudaurelia capensis omega virus protomer in implicit solvent
