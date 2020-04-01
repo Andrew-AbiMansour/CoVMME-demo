@@ -1,1 +1,1 @@
-- [Initial protomer](1ohf.rcsb.pdb): PDB ID = 1OHF
+- [Initial protomer](Initial/1ohf.rcsb.pdb): PDB ID = 1OHF
