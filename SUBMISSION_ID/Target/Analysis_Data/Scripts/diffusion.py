@@ -47,3 +47,11 @@ def diffusion(vi, vj, dt, usedFraction = .5):
     correlation = corr / float(vi.shape[0])
 
     return trapz(correlation, dx=dt)
+
+if __name__ == '__main__':
+    try:
+        trajf  = sys.argv[1]
+    except:
+        raise ValueError('Run: python diffusion.py traj_fname')
+        
+    diffusion(trajf)
