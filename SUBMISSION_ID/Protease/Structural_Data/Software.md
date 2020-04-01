@@ -1,0 +1,2 @@
+- [VMD v1.9.3](https://www.ks.uiuc.edu/Research/vmd/)
+- [Automatic PSF Generation Plugin v1.8](https://www.ks.uiuc.edu/Research/vmd/plugins/autopsf)

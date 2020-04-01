@@ -1,3 +1,0 @@
-- [python 3.8](https://www.python.org/)
-- [numpy 1.18.2](https://pypi.org/project/numpy)
-- [MDAnalysis 0.20.1](https://pypi.org/project/MDAnalysis)

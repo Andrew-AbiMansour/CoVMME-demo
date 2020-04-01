@@ -1,3 +1,0 @@
-- Pointer to trajectory file: some_link_to_dcd
-- Total number of frames = integer e.g. 100
-- Timestep = float e.g. 5 ps

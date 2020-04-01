@@ -1,8 +1,8 @@
 Types of Data Submitted:
 
-- [Structural Data](Capsid_Protomer/Structural_Data)
-- [Analysis Data](Capsid_Protomer/Analysis_Data)
-- [Simulation Input Files](Capsid_Protomer/Simulation_Input_Files)
-- [Simulation Output Files](Capsid_Protomer/Simulation_Output_Files)
-- [Movies](Capsid_Protomer/Movies)
-- [References](Capsid_Protomer/References.md)
+- [Structural Data](Protease/Structural_Data)
+- [Analysis Data](Protease/Analysis_Data)
+- [Simulation Input Files](Protease/Simulation_Input_Files)
+- [Simulation Output Files](Protease/Simulation_Output_Files)
+- [Movies](Protease/Movies)
+- [References](Protease/References.md)
