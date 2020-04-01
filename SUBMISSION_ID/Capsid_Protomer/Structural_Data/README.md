@@ -1,1 +1,3 @@
-NPT molecular dynamics simulation of 3 nudaurelia capensis omega virus protomers in implicit solvent. 
+Preparation:
+- Starting from the crystal structure of 1OHF (Initial/1ohf.rcsb.pdb), 3 protomers were constructed via symmetrical transformations [ref] and the protonated state determined based on the method outlined in [ref].
+- To replicate the final structure (Final.1ohf.triangle.pdb), run the following scripts ...
