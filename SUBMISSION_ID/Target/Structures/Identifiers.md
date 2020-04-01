@@ -1,1 +1,1 @@
-PDB ID = 1OHF
+- 1ohf.rcsb.pdb: PDB ID = 1OHF
