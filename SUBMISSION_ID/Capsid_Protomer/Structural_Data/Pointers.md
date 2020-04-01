@@ -1,1 +1,1 @@
-- 1ohf.rcsb.pdb: [rcsb](https://www.rcsb.org/structure/1ohf)
+- [Initial protomer](Initial/1ohf.rcsb.pdb): [rcsb](https://www.rcsb.org/structure/1ohf)
