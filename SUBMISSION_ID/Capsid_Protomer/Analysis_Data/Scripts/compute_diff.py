@@ -1,6 +1,7 @@
 from numpy import *
 import sys
 from numpy.fft import fft, ifft, fftshift
+import MDAnalysis
 
 def autocorr(xi,yi):
     """FFT based autocorrelation, x is a nx1 array. The code can be easily extended for an m by n matrix"""
@@ -41,7 +42,7 @@ def diffusion(vi, vj, dt, usedFraction = .5):
     corr = zeros(npts-1)
 
     for i in arange(vi.shape[0]):
-        corr += Autocorr(vi[i,:npts], vj[i,:npts])
+        corr += autocorr(vi[i,:npts], vj[i,:npts])
         
     #average correlation func        
     correlation = corr / float(vi.shape[0])
@@ -50,8 +51,18 @@ def diffusion(vi, vj, dt, usedFraction = .5):
 
 if __name__ == '__main__':
     try:
-        trajf  = sys.argv[1]
+        psf = sys.argv[1]
+        traj = sys.argv[2]
+        ofname = sys.argv[3]
     except:
-        raise ValueError('Run: python diffusion.py traj_fname')
-        
-    diffusion(trajf)
+        raise ValueError('Input args: psfname, traj_velo_fname, ofname')
+
+    U = MDAnalysis.Universe(psf,traj)
+    sel = U.select_atoms('protein')
+
+    U.trajectory.rewind()
+    com = array([sel.center_of_mass() for ts in U.trajectory])
+
+    diff = [diffusion(coms[newaxis,:], coms[newaxis,:], dt=1e-3) for coms in com.T]
+    savetxt(ofname, diff)
+
