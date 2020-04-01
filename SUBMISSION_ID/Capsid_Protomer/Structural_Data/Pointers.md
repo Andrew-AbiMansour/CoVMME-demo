@@ -1,1 +1,1 @@
-- [Initial protomer](Initial/1ohf.rcsb.pdb): [rcsb](https://www.rcsb.org/structure/1ohf)
+- [Initial protease](Initial/6lu7.rcsb.pdb): [rcsb](https://www.rcsb.org/structure/6LU7)

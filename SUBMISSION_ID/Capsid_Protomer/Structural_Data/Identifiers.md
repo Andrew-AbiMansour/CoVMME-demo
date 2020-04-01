@@ -1,1 +1,1 @@
-- [Initial protomer](Initial/1ohf.rcsb.pdb): PDB ID = 1OHF
+- [Initial protease](Initial/6lu7.rcsb.pdb): PDB ID = 6LU7
