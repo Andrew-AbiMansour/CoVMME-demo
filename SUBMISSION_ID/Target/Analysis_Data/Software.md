@@ -1,4 +1,4 @@
-- python 3.8
-- numpy
-- scipy
-- MDAnalysis
+- [python 3.8](https://www.python.org/)
+- [numpy 1.18.2](https://pypi.org/project/numpy)
+- [scipy 1.4.1](https://pypi.org/project/scipy)
+- [MDAnalysis 0.20.1](https://pypi.org/project/MDAnalysis)
