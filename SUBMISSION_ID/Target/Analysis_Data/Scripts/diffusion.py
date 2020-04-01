@@ -47,21 +47,3 @@ def diffusion(vi, vj, dt, usedFraction = .5):
     correlation = corr / float(vi.shape[0])
 
     return trapz(correlation, dx=dt)
-
-
-def dmatrix(v, dt, box):
-    """
-    @param src: a nframe * nsubsystem * nop * 3 array
-    @return: the diffusion tensor
-    """
-    dtensor = zeros([v.shape[2], v.shape[3], 3, v.shape[2], v.shape[3], 3], 'f')
-    for ri in arange(dtensor.shape[0]):
-        for rj in arange(dtensor.shape[1]):
-            for rk in arange(dtensor.shape[2]):
-                dtensor[ri,rj,rk,ri,rj,rk] = diffusion(v[:,:,ri,rj,rk],v[:,:,ri,rj,rk],dt * box[rk] * box[rk])
-
-    size=dtensor.shape[0]*dtensor.shape[1]*dtensor.shape[2]
-    return reshape(dtensor,(size,size))
-
-def test(v, dt, i,j,k):
-    return d4(v[:,:,i,j,k],v[:,:,i,j,k],dt)
