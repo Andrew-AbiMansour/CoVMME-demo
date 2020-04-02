@@ -11,20 +11,20 @@ assignees: ''
 Include submission ID
 
 ### Procedure
-Explain the scientific process you used to review the submitted data. 
+Explain the scientific process you used to review the submitted data. The tables below summarize some of the technical and scientific issues to consider.
 
-Some of the scientific issues to consider:
+#### Sientific issues
 
-| Issues | Valid | Problem description |
+| Issue | Valid | Problem description |
 | :---: | :---: | :---: |
 | Initial structure | yes/no | ... |
 | Provenance | yes/no | ... |
 | Simulation | yes/no | ... |
 | Analysis | yes/no | ... |
 
-Some of the technical issues to consider:
+#### Technical issues
 
-| Issues | Success | Problem description |
+| Issue | Success | Problem description |
 | :---: | :---: | :---: |
 | Valid sofware depdendencies | yes/no | ... |
 | File integrity and validity | yes/no | ... |
