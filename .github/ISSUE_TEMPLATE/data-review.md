@@ -21,6 +21,7 @@ Explain the scientific process you used to review the submitted data. The tables
 | Provenance | yes/no | ... |
 | Simulation | yes/no | ... |
 | Analysis | yes/no | ... |
+| Citations included for data/algorithms/methods | yes/no | ... |
 
 #### Technical issues
 
@@ -30,7 +31,6 @@ Explain the scientific process you used to review the submitted data. The tables
 | File integrity and validity | yes/no | ... |
 | Valid target name | yes/no | ... |
 | Execution of script files | yes/no | ... |
-| Citations for data or algorithms/methods | yes/no | ... |
 
 ### Evaluation
 Include a qualitative assessment of the data: 
