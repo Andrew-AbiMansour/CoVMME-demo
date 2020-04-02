@@ -13,7 +13,7 @@ Include submission ID
 ** Procedure **
 Explain the scientific process you used to review the submitted data. Include a list of technical issues you checked for such as: 
   - Unique submission ID
-  - Target name 
+  - Valid target name 
   - Valid sofware depdendencies
   - File integrity and validity
   - Execution of script files
