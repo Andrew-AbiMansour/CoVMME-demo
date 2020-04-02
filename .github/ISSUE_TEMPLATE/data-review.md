@@ -14,8 +14,8 @@ Include submission ID
 Explain the scientific process you used to review the submitted data. Include a list of technical issues you checked for such as:
 
 | Issues | Success | Problem description |
-| --- | --- | --- |
-| Unique submission ID | yes/no | ........... |
+| :---: | :---: | :---: |
+| Unique submission ID | yes/no | ... |
 | Valid target name | yes/no | ... |
 | Valid sofware depdendencies | yes/no | ... |
 | File integrity and validity | yes/no | ... |
