@@ -25,8 +25,9 @@ If your dataset does not have a DOI, you can generate one with:
 - [Zenodo](https://zenodo.org): general-purpose open-access repository that provides data storage and DOI generation. To publish your dataset, please follow the instructions below:
     * Create an [account](https://zenodo.org/signup), confirm your registration (via email), and then login with your credentials.
     * Click on [New upload](https://zenodo.org/deposit/new?c=covid-19) for the "coronavirus disease research community - COVID-19".
-    * Drag and drop files if you'd like to store any datasets on zenodo, and complete the fields by filling the required information.
+    * Drag and drop files to upload to zenodo, and complete the fields by filling the required information.
     * **Make sure to click on "Reserve DOI" under the "Basic Information" section**. This should produce a DOI link e.g. 10.5281/zenodo.3742380
+    * click on "Save" and then "Publish".
 
   **Example**: Aragao *et tal.* (2020): Raw diffraction data for structure of SARS-CoV-2 main protease with PCM-0102179 (ID: mpro-x1384 / PDB: 5RFQ)
 . Zenodo. Dataset. DOI [10.5281/zenodo.3731504](https://doi.org/10.5281/zenodo.3731504)
