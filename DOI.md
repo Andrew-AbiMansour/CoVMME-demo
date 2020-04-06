@@ -3,8 +3,10 @@
 ### Published work
 Any dataset that is either published or associated with published work that has a [Digital Object Identifier](https://www.doi.org) (DOI) should be included and stored under the "Papers" directory. 
 
-* Author (2020): Title. Publisher. Dataset. DOI: link_to_doi
-* e.g. Yang *et tal.* (2020): The crystal structure of COVID-19 main protease in complex with an inhibitor N3. BiorRxiv. Dataset. DOI: [0.1101/2020.02.26.964882](http://dx.doi.org/10.1101/2020.02.26.964882)
+The format style to use:
+  Author (2020): Title. Publisher. Dataset. DOI: link_to_doi
+
+  **Example**: Yang *et tal.* (2020): The crystal structure of COVID-19 main protease in complex with an inhibitor N3. BiorRxiv. Dataset. DOI: [0.1101/2020.02.26.964882](http://dx.doi.org/10.1101/2020.02.26.964882)
 
 ### Unpublished work
 If your dataset does not have a DOI, you can generate one with:
@@ -17,7 +19,7 @@ If your dataset does not have a DOI, you can generate one with:
    * Once you're done with filling all the fields, make sure to click on "Reserve Digital Object Identifier". This should produce a DOI link e.g. 10.6084/m9.figshare.12089361
    * Select "Publish" in the bottom menu, and click on "save changes".
 
-  **Example** : MolSSI (2020): CoVMME-demo. Github. Dataset. DOI: [10.6084/m9.figshare.12089292](https://doi.org/10.6084/m9.figshare.12089292)
+  **Example**: MolSSI (2020): CoVMME-demo. Github. Dataset. DOI: [10.6084/m9.figshare.12089292](https://doi.org/10.6084/m9.figshare.12089292)
 
 - [EZID](https://ezid.cdlib.org): creates identifiers for any kind of entity including physical, digital (images, data, text, etc.), abstracts, etc. EZID provides pointers to objects (e.g. datasets) stored on the web.
 
