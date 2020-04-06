@@ -17,7 +17,7 @@ If your dataset does not have a DOI, you can generate one with:
    * Once you're done with filling all the fields, make sure to click on "Reserve Digital Object Identifier". This should produce a DOI link e.g. 10.6084/m9.figshare.12089361
    * Select "Publish" in the bottom menu, and click on "save changes".
 
-  Example: MolSSI (2020): CoVMME-demo. Github. Dataset. DOI: [10.6084/m9.figshare.12089292](https://doi.org/10.6084/m9.figshare.12089292)
+  **Example** : MolSSI (2020): CoVMME-demo. Github. Dataset. DOI: [10.6084/m9.figshare.12089292](https://doi.org/10.6084/m9.figshare.12089292)
 
 - [EZID](https://ezid.cdlib.org): creates identifiers for any kind of entity including physical, digital (images, data, text, etc.), abstracts, etc. EZID provides pointers to objects (e.g. datasets) stored on the web.
 
