@@ -10,9 +10,9 @@ Any dataset that is either published or associated with published work that has 
 If your dataset does not have a DOI, you can generate one with:
 
 - [Figshare](https://figshare.com): 
-   * Create an [account](https://figshare.com/account/register) and then login with your credentials
-   * Go to the home [page](https://figshare.com/account/home#/data)
-   * If your dataset is hosted on github, click on "Import from Github" and select the relevant repoistory
+   * Create an [account](https://figshare.com/account/register), confirm your registration with your email, and then login with your credentials.
+   * Go to the home [page](https://figshare.com/account/home#/data).
+   * If your dataset is hosted on github, click on "Import from Github" and select the relevant repoistory.
    * If your dataset is not hosted on github, click on "Create a new item", and fill in the fields. If your datasets are hosted elsewhere, select the "Metadata record only"; otherwise, upload your files by clicking on the upload/drag file(s) button and upload your files. 
    * Once you're done with filling all the fields, make sure to click on "Reserve Digital Object Identifier". This should produce a DOI link e.g. 10.6084/m9.figshare.12089361
    * Select "Publish" in the bottom menu, and click on "save changes".
