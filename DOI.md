@@ -38,6 +38,6 @@ If your dataset does not have a DOI, you can generate one with:
     * Click on "Start New Dataset" and select "other or not applicable" in the "Preliminary Information"
     * Complete the required info and then click on "Proceed to Upload".
     * Either upload your files or enter URLs of file locations, then click on "Proceed to Review" at the bottom page.
-    * You should observe a generated DOI link e.g. 10.5061/dryad.2jm63xskr
+    * You should see on the next page a generated DOI link e.g. 10.5061/dryad.2jm63xskr
 
   **Example**: Victor Virlogeux *et al.* (2020). Data from: Association between severity of MERS-CoV infection and incubation period. Dryad. Dataset. DOI: [10.5061/dryad.v3546](https://doi.org/10.5061/dryad.v3546)
