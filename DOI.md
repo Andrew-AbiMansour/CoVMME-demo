@@ -40,4 +40,4 @@ If your dataset does not have a DOI, you can generate one with:
     * Either upload your files or enter URLs of file locations, then click on "Proceed to Review" at the bottom page.
     * You should observe a generated DOI link e.g. 10.5061/dryad.2jm63xskr
 
-  **Example**: Andrew Abi-Mansour (2020). Some_title. Dryad. Dataset. DOI: [10.5061/dryad.2jm63xskr]https://doi.org/10.5061/dryad.2jm63xskr
+  **Example**: Andrew Abi-Mansour (2020). Some_title. Dryad. Dataset. DOI: [10.5061/dryad.2jm63xskr](https://doi.org/10.5061/dryad.2jm63xskr)
