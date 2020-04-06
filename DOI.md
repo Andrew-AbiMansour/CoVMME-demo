@@ -2,9 +2,10 @@
 
 ### Published work
 Any dataset that is either published or associated with published work that has a Digital [Object Identifier](https://www.doi.org) (DOI) should be included and stored under the "Papers" directory. 
-	e.g. "The crystal structure of COVID-19 main protease in complex with an inhibitor N3" (DOI link: http://dx.doi.org/10.1101/2020.02.26.964882)
+
+e.g. "The crystal structure of COVID-19 main protease in complex with an inhibitor N3", Yang *et tal.*, biorRxiv. (2020) (DOI: [0.1101/2020.02.26.964882](http://dx.doi.org/10.1101/2020.02.26.964882)
 
 ### Unpublished work
-If your dataset does not have a DOI, you can generate one with
-	- EZID: https://ezid.cdlib.org/
-	- ResearchGate DOIs: https://explore.researchgate.net/display/support/ResearchGate+DOIs
+If your dataset does not have a DOI, you can generate one with:
+- EZID: https://ezid.cdlib.org/
+- ResearchGate: [how to generate DOIs](https://explore.researchgate.net/display/support/ResearchGate+DOIs) 
