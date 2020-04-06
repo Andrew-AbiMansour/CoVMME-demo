@@ -30,4 +30,14 @@ If your dataset does not have a DOI, you can generate one with:
     * Click on "Save" and then "Publish".
 
   **Example**: Aragao *et tal.* (2020): Raw diffraction data for structure of SARS-CoV-2 main protease with PCM-0102179 (ID: mpro-x1384 / PDB: 5RFQ)
-. Zenodo. Dataset. DOI [10.5281/zenodo.3731504](https://doi.org/10.5281/zenodo.3731504)
+. Zenodo. Dataset. DOI: [10.5281/zenodo.3731504](https://doi.org/10.5281/zenodo.3731504)
+
+- [Dryad](https://datadryad.org): general-purpose open-access repository that provides data storage and DOI generation. **Size limits: 10 GB of new files per version may be uploaded from your computer or 300 GB in total by URL or submitting multiple versions**. To publish your dataset, please follow the instructions below:
+    * Create an ORCID [account](https://orcid.org/register) if you don't have one.
+    * Login to [DRYAD](https://datadryad.org/stash/sessions/choose_login) with your ORCID credentials.
+    * Click on "Start New Dataset" and select "other or not applicable" in the "Preliminary Information"
+    * Complete the required info and then click on "Proceed to Upload".
+    * Either upload your files or enter URLs of file locations, then click on "Proceed to Review" at the bottom page.
+    * You should observe a generated DOI link e.g. 10.5061/dryad.2jm63xskr
+
+  **Example**: Andrew Abi-Mansour (2020). Some_title. Dryad. Dataset. DOI: [10.5061/dryad.2jm63xskr]https://doi.org/10.5061/dryad.2jm63xskr
