@@ -11,7 +11,8 @@ The format style to use:
 ### Unpublished work
 If your dataset does not have a DOI, you can generate one with:
 
-- [Figshare](https://figshare.com): 
+- [Figshare](https://figshare.com):  an online open access repository where researchers can preserve and share their research outputs, including figures, datasets, images, and videos. It is free to upload content and free to access, in adherence to the principle of open data. To publish your dataset, please follow the instructions below:
+
    * Create an [account](https://figshare.com/account/register), confirm your registration with your email, and then login with your credentials.
    * Go to the home [page](https://figshare.com/account/home#/data).
    * If your dataset is hosted on github, click on "Import from Github" and select the relevant repoistory.
