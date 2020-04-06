@@ -6,7 +6,7 @@ Any dataset that is either published or associated with published work that has 
 The format style to use:
   Author (2020): Title. Publisher. Dataset. DOI: link_to_doi
 
-  **Example**: Yang *et tal.* (2020): The crystal structure of COVID-19 main protease in complex with an inhibitor N3. BiorRxiv. Dataset. DOI: [0.1101/2020.02.26.964882](http://dx.doi.org/10.1101/2020.02.26.964882)
+  **Example**: Haitao Yang *et tal.* (2020): The crystal structure of COVID-19 main protease in complex with an inhibitor N3. BiorRxiv. Dataset. DOI: [0.1101/2020.02.26.964882](http://dx.doi.org/10.1101/2020.02.26.964882)
 
 ### Unpublished work
 If your dataset does not have a DOI, you can generate one with:
@@ -29,7 +29,7 @@ If your dataset does not have a DOI, you can generate one with:
     * **Make sure to click on "Reserve DOI" under the "Basic Information" section**. This should produce a DOI link e.g. 10.5281/zenodo.3742380
     * Click on "Save" and then "Publish".
 
-  **Example**: Aragao *et tal.* (2020): Raw diffraction data for structure of SARS-CoV-2 main protease with PCM-0102179 (ID: mpro-x1384 / PDB: 5RFQ)
+  **Example**: David Aragao *et tal.* (2020): Raw diffraction data for structure of SARS-CoV-2 main protease with PCM-0102179 (ID: mpro-x1384 / PDB: 5RFQ)
 . Zenodo. Dataset. DOI: [10.5281/zenodo.3731504](https://doi.org/10.5281/zenodo.3731504)
 
 - [Dryad](https://datadryad.org): general-purpose open-access repository that provides data storage and DOI generation. **Size limits: 10 GB of new files per version may be uploaded from your computer or 300 GB in total by URL or submitting multiple versions**. To publish your dataset, please follow the instructions below:
@@ -40,4 +40,4 @@ If your dataset does not have a DOI, you can generate one with:
     * Either upload your files or enter URLs of file locations, then click on "Proceed to Review" at the bottom page.
     * You should observe a generated DOI link e.g. 10.5061/dryad.2jm63xskr
 
-  **Example**: Andrew Abi-Mansour (2020). Some_title. Dryad. Dataset. DOI: [10.5061/dryad.2jm63xskr](https://doi.org/10.5061/dryad.2jm63xskr)
+  **Example**: Victor Virlogeux *et al.* (2020). Data from: Association between severity of MERS-CoV infection and incubation period. Dryad. Dataset. DOI: [10.5061/dryad.v3546](https://doi.org/10.5061/dryad.v3546)
