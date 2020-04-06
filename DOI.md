@@ -28,5 +28,5 @@ If your dataset does not have a DOI, you can generate one with:
     * Drag and drop files if you'd like to store any datasets on zenodo, and complete the fields by filling the required information.
     * **Make sure to click on "Reserve DOI" under the "Basic Information" section**. This should produce a DOI link e.g. 10.5281/zenodo.3742380
 
-**Example**: Aragao *et tal.* (2020): Raw diffraction data for structure of SARS-CoV-2 main protease with PCM-0102179 (ID: mpro-x1384 / PDB: 5RFQ)
+  **Example**: Aragao *et tal.* (2020): Raw diffraction data for structure of SARS-CoV-2 main protease with PCM-0102179 (ID: mpro-x1384 / PDB: 5RFQ)
 . Zenodo. Dataset. DOI [10.5281/zenodo.3731504](https://doi.org/10.5281/zenodo.3731504)
